@@ -11,6 +11,12 @@ If you are opening the site in mobile phone, Please open in Desktop Mode
 
 ## Preview Images:
 
+![Preview 1](https://github.com/akshitasood08/Amazon-Clone/blob/main/Images/Preview%201.png)
+
+![Preview 2](https://github.com/akshitasood08/Amazon-Clone/blob/main/Images/Preview%201.png)
+
+![Preview 2](https://github.com/akshitasood08/Amazon-Clone/blob/main/Images/Preview%201.png)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
