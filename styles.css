@@ -22,7 +22,7 @@ li{
 }
 
 .logo{
-    background-image: url('images/amazon_logo.png');
+    background-image: url('Images/amazon_logo.png');
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -63,7 +63,7 @@ li{
 .flag{
    width:17px;
    height: 12px;
-   background-image: url(images/flag.png);
+   background-image: url(Images/flag.png);
    background-size: cover;
    padding: 2px;
    margin: auto;
@@ -172,7 +172,7 @@ li{
 }
 
 .hero-section{
-    background-image: url('images/hero-image.jpg');
+    background-image: url('Images/hero-image.jpg');
     background-size: cover;
     height: 380px;
     display: flex;
@@ -290,7 +290,7 @@ footer{
 }
 
 .logoBottom{
-    background-image: url('images/amazon_logo.png');
+    background-image: url('Images/amazon_logo.png');
     background-size: cover;
     height: 50px;
     width: 100px;
